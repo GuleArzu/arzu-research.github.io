@@ -17,10 +17,13 @@ url                      : "https://gulearzu.github.io" # The base hostname & pr
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/arzu-research" # the subpath of your site, e.g. "/blog"
 author:
+  avatar: "bio-photo-2.jpeg"
   name: "Gul E. Arzu"
-  bio: "PhD Researcher in Digital Healthcare, Speech Processing, and AI at Wonkwang University, South Korea."
+  bio: "PhD Researcher | Digital Healthcare, Speech Processing and AI"
   location: "Iksan, South Korea"
+  employer: "Wonkwang University"
   email: "arzu786@wku.ac.kr"
+  googlescholar: "https://scholar.google.com/citations?user=51k1dhUAAAAJ&hl=en"
   github: "GuleArzu"
 repository               : "GuleArzu/arzu-research.github.io"
 
